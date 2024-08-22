@@ -1383,7 +1383,11 @@ const String paramInverterCharge PROGMEM = "{'page':["
   "},"
   "{"
     "'name':"+String(ID_PARAM_INVERTER_LADESTROM_REDUZIEREN_A_PRO_MV)+","
+<<<<<<< HEAD
     "'label':'Reduzierung pro weiterer mV-Abweichung um',"
+=======
+    "'label':'Reduzierung pro weiterem mV Abweichung',"
+>>>>>>> bd816a6cfae0f76fe1778e55584066b407a43fc1
     "'unit':'A',"
     "'type':"+String(HTML_INPUTFLOAT_1)+","
     "'default':'1',"
